@@ -1,0 +1,714 @@
+[
+    {
+        "cdp": "segment",
+        "url": "https://segment.com/docs/",
+        "content": [
+            {
+                "type": "heading",
+                "text": "403 Forbidden"
+            }
+        ]
+    },
+    {
+        "cdp": "mparticle",
+        "url": "https://docs.mparticle.com/",
+        "content": [
+            {
+                "type": "heading",
+                "text": "Get Started"
+            },
+            {
+                "type": "heading",
+                "text": "1. Collect"
+            },
+            {
+                "type": "heading",
+                "text": "2. Validate"
+            },
+            {
+                "type": "heading",
+                "text": "3. Connect"
+            },
+            {
+                "type": "heading",
+                "text": "Do more with mParticle"
+            },
+            {
+                "type": "heading",
+                "text": "Inputs"
+            },
+            {
+                "type": "heading",
+                "text": "Outputs"
+            },
+            {
+                "type": "heading",
+                "text": "CDP"
+            },
+            {
+                "type": "heading",
+                "text": "Analytics"
+            },
+            {
+                "type": "heading",
+                "text": "Predictive AI"
+            },
+            {
+                "type": "heading",
+                "text": "Learn More"
+            },
+            {
+                "type": "heading",
+                "text": "Get in Touch"
+            },
+            {
+                "type": "heading",
+                "text": "Do Not Sell or Share My Personal Data"
+            },
+            {
+                "type": "heading",
+                "text": "Manage Consent Preferences"
+            },
+            {
+                "type": "heading",
+                "text": "Cookie List"
+            },
+            {
+                "type": "paragraph",
+                "text": "Home"
+            },
+            {
+                "type": "paragraph",
+                "text": "Guides"
+            },
+            {
+                "type": "paragraph",
+                "text": "Developers"
+            },
+            {
+                "type": "paragraph",
+                "text": "Integrations"
+            },
+            {
+                "type": "paragraph",
+                "text": "Changelog"
+            },
+            {
+                "type": "paragraph",
+                "text": "mParticle is a customer data platform (CDP) that simplifies how you collect and connect your user data to hundreds of vendors without needing to manage multiple integrations. We simplify the entire process for you, so you can do more with your data without the hassle of complex integrations."
+            },
+            {
+                "type": "paragraph",
+                "text": "New to mParticle? Explore our UI with our interactive demo."
+            },
+            {
+                "type": "paragraph",
+                "text": "Send your first event to mParticle"
+            },
+            {
+                "type": "paragraph",
+                "text": "Ensure data quality"
+            },
+            {
+                "type": "paragraph",
+                "text": "Forward data to a downstream services"
+            },
+            {
+                "type": "paragraph",
+                "text": "Manage user identities with IDSync"
+            },
+            {
+                "type": "paragraph",
+                "text": "View and enforce your data quality"
+            },
+            {
+                "type": "paragraph",
+                "text": "Engage customer cohorts"
+            },
+            {
+                "type": "paragraph",
+                "text": "Transform data as it enters and leaves mParticle"
+            },
+            {
+                "type": "paragraph",
+                "text": "Get a complete view of your users"
+            },
+            {
+                "type": "paragraph",
+                "text": "Ensure compliance with GDPR, CCPA, and your privacy policies"
+            },
+            {
+                "type": "paragraph",
+                "text": "Send events directly to mParticle"
+            },
+            {
+                "type": "paragraph",
+                "text": "Real-time API to drive user personalization"
+            },
+            {
+                "type": "paragraph",
+                "text": "Build your own custom integrations"
+            },
+            {
+                "type": "paragraph",
+                "text": "Android"
+            },
+            {
+                "type": "paragraph",
+                "text": "iOS"
+            },
+            {
+                "type": "paragraph",
+                "text": "Web"
+            },
+            {
+                "type": "paragraph",
+                "text": "HTTP"
+            },
+            {
+                "type": "paragraph",
+                "text": "Node"
+            },
+            {
+                "type": "paragraph",
+                "text": "Python"
+            },
+            {
+                "type": "paragraph",
+                "text": "Ruby"
+            },
+            {
+                "type": "paragraph",
+                "text": "JSON Reference"
+            },
+            {
+                "type": "paragraph",
+                "text": "Branch"
+            },
+            {
+                "type": "paragraph",
+                "text": "AppsFlyer"
+            },
+            {
+                "type": "paragraph",
+                "text": "Braze"
+            },
+            {
+                "type": "paragraph",
+                "text": "Custom CSV Feed"
+            },
+            {
+                "type": "paragraph",
+                "text": "Mixpanel"
+            },
+            {
+                "type": "paragraph",
+                "text": "Amplitude"
+            },
+            {
+                "type": "paragraph",
+                "text": "Facebook"
+            },
+            {
+                "type": "paragraph",
+                "text": "Braze"
+            },
+            {
+                "type": "paragraph",
+                "text": "AppsFlyer"
+            },
+            {
+                "type": "paragraph",
+                "text": "Facebook"
+            },
+            {
+                "type": "paragraph",
+                "text": "Snapchat"
+            },
+            {
+                "type": "paragraph",
+                "text": "Twitter"
+            },
+            {
+                "type": "paragraph",
+                "text": "Braze"
+            },
+            {
+                "type": "paragraph",
+                "text": "Pinterest"
+            },
+            {
+                "type": "paragraph",
+                "text": "mParticle Docs"
+            },
+            {
+                "type": "paragraph",
+                "text": "Home"
+            },
+            {
+                "type": "paragraph",
+                "text": "Guides"
+            },
+            {
+                "type": "paragraph",
+                "text": "Developers"
+            },
+            {
+                "type": "paragraph",
+                "text": "Integrations"
+            },
+            {
+                "type": "paragraph",
+                "text": "Analytics Docs"
+            },
+            {
+                "type": "paragraph",
+                "text": "Overview"
+            },
+            {
+                "type": "paragraph",
+                "text": "Getting Started"
+            },
+            {
+                "type": "paragraph",
+                "text": "Developers"
+            },
+            {
+                "type": "paragraph",
+                "text": "Expert Training"
+            },
+            {
+                "type": "paragraph",
+                "text": "Cortex Docs"
+            },
+            {
+                "type": "paragraph",
+                "text": "Overview"
+            },
+            {
+                "type": "paragraph",
+                "text": "Getting Started"
+            },
+            {
+                "type": "paragraph",
+                "text": "Developers"
+            },
+            {
+                "type": "paragraph",
+                "text": "Using Cortex"
+            },
+            {
+                "type": "paragraph",
+                "text": "Blog"
+            },
+            {
+                "type": "paragraph",
+                "text": "Podcast"
+            },
+            {
+                "type": "paragraph",
+                "text": "Resources"
+            },
+            {
+                "type": "paragraph",
+                "text": "Community"
+            },
+            {
+                "type": "paragraph",
+                "text": "Change log"
+            },
+            {
+                "type": "paragraph",
+                "text": "Help Center"
+            },
+            {
+                "type": "paragraph",
+                "text": "Demo"
+            },
+            {
+                "type": "paragraph",
+                "text": "Become a Partner"
+            },
+            {
+                "type": "paragraph",
+                "text": "These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information."
+            },
+            {
+                "type": "paragraph",
+                "text": "Under the CPRA, you have the right to opt-out of the sale or sharing of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale or sharing of personal information by using this toggle switch. If you opt out we will not be able to offer you personalized ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences."
+            },
+            {
+                "type": "paragraph",
+                "text": "Targeting CookiesSwitch LabellabelThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising."
+            },
+            {
+                "type": "paragraph",
+                "text": "These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising."
+            },
+            {
+                "type": "paragraph",
+                "text": "Performance CookiesSwitch LabellabelThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance."
+            },
+            {
+                "type": "paragraph",
+                "text": "These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance."
+            }
+        ]
+    },
+    {
+        "cdp": "lytics",
+        "url": "https://docs.lytics.com/",
+        "content": [
+            {
+                "type": "heading",
+                "text": "All of your CDP answers, in one place"
+            },
+            {
+                "type": "heading",
+                "text": "Quick Start"
+            },
+            {
+                "type": "heading",
+                "text": "Account Management"
+            },
+            {
+                "type": "heading",
+                "text": "Key Concepts"
+            },
+            {
+                "type": "heading",
+                "text": "Pipeline & Profiles"
+            },
+            {
+                "type": "heading",
+                "text": "Warehouse Access"
+            },
+            {
+                "type": "heading",
+                "text": "Audiences & Activation"
+            },
+            {
+                "type": "heading",
+                "text": "Tutorials"
+            },
+            {
+                "type": "heading",
+                "text": "SDKs & Tools"
+            },
+            {
+                "type": "heading",
+                "text": "Integrations"
+            },
+            {
+                "type": "heading",
+                "text": "Partners"
+            },
+            {
+                "type": "heading",
+                "text": "Legacy"
+            },
+            {
+                "type": "paragraph",
+                "text": "If you have questions about Lytics — whether you're a marketer, an engineer, an analyst, or an intern — we've got you covered."
+            },
+            {
+                "type": "paragraph",
+                "text": "Developer Quickstart"
+            },
+            {
+                "type": "paragraph",
+                "text": "What is Vault?"
+            },
+            {
+                "type": "paragraph",
+                "text": "Accessing Accounts"
+            },
+            {
+                "type": "paragraph",
+                "text": "Monitoring Metrics and Alerts"
+            },
+            {
+                "type": "paragraph",
+                "text": "View More…"
+            },
+            {
+                "type": "paragraph",
+                "text": "Identity Resolution"
+            },
+            {
+                "type": "paragraph",
+                "text": "Consent & Privacy"
+            },
+            {
+                "type": "paragraph",
+                "text": "Client & Server Side Cookies"
+            },
+            {
+                "type": "paragraph",
+                "text": "View More…"
+            },
+            {
+                "type": "paragraph",
+                "text": "Data Pipeline"
+            },
+            {
+                "type": "paragraph",
+                "text": "Schema Management"
+            },
+            {
+                "type": "paragraph",
+                "text": "Identity"
+            },
+            {
+                "type": "paragraph",
+                "text": "What is Cloud Connect?"
+            },
+            {
+                "type": "paragraph",
+                "text": "Connecting Warehouses"
+            },
+            {
+                "type": "paragraph",
+                "text": "Data Models & Queries"
+            },
+            {
+                "type": "paragraph",
+                "text": "View More…"
+            },
+            {
+                "type": "paragraph",
+                "text": "User Profiles"
+            },
+            {
+                "type": "paragraph",
+                "text": "Audiences"
+            },
+            {
+                "type": "paragraph",
+                "text": "Reports"
+            },
+            {
+                "type": "paragraph",
+                "text": "View More…"
+            },
+            {
+                "type": "paragraph",
+                "text": "Leveraging User Profiles"
+            },
+            {
+                "type": "paragraph",
+                "text": "Data Collection & Onboarding"
+            },
+            {
+                "type": "paragraph",
+                "text": "Data Management"
+            },
+            {
+                "type": "paragraph",
+                "text": "View More…"
+            },
+            {
+                "type": "paragraph",
+                "text": "Web"
+            },
+            {
+                "type": "paragraph",
+                "text": "Mobile"
+            },
+            {
+                "type": "paragraph",
+                "text": "Chrome Extension"
+            },
+            {
+                "type": "paragraph",
+                "text": "Lytics Integration Options"
+            },
+            {
+                "type": "paragraph",
+                "text": "Acoustic"
+            },
+            {
+                "type": "paragraph",
+                "text": "Adobe"
+            },
+            {
+                "type": "paragraph",
+                "text": "View More…"
+            },
+            {
+                "type": "paragraph",
+                "text": "Partner Types"
+            },
+            {
+                "type": "paragraph",
+                "text": "Lytics Communication"
+            },
+            {
+                "type": "paragraph",
+                "text": "Insights"
+            },
+            {
+                "type": "paragraph",
+                "text": "Importing External Experiences"
+            },
+            {
+                "type": "paragraph",
+                "text": "IDP-initiated SSO (legacy)"
+            },
+            {
+                "type": "paragraph",
+                "text": "View More…"
+            }
+        ]
+    },
+    {
+        "cdp": "zeotap",
+        "url": "https://docs.zeotap.com/home/en-us/",
+        "content": [
+            {
+                "type": "heading",
+                "text": "Browse by product"
+            },
+            {
+                "type": "heading",
+                "text": "Do more with Zeotap"
+            },
+            {
+                "type": "paragraph",
+                "text": "Log In"
+            },
+            {
+                "type": "paragraph",
+                "text": "Home"
+            },
+            {
+                "type": "paragraph",
+                "text": "What's New?"
+            },
+            {
+                "type": "paragraph",
+                "text": "API Doc"
+            },
+            {
+                "type": "paragraph",
+                "text": "Integrations"
+            },
+            {
+                "type": "paragraph",
+                "text": "Products"
+            },
+            {
+                "type": "paragraph",
+                "text": "Integrate"
+            },
+            {
+                "type": "paragraph",
+                "text": "Unify"
+            },
+            {
+                "type": "paragraph",
+                "text": "Segment"
+            },
+            {
+                "type": "paragraph",
+                "text": "Orchestrate"
+            },
+            {
+                "type": "paragraph",
+                "text": "Dashboard"
+            },
+            {
+                "type": "paragraph",
+                "text": "Protect"
+            },
+            {
+                "type": "paragraph",
+                "text": "Target"
+            },
+            {
+                "type": "paragraph",
+                "text": "Security"
+            },
+            {
+                "type": "paragraph",
+                "text": "GDPR"
+            },
+            {
+                "type": "paragraph",
+                "text": "For Developers"
+            },
+            {
+                "type": "paragraph",
+                "text": "API Docs"
+            },
+            {
+                "type": "paragraph",
+                "text": "Company"
+            },
+            {
+                "type": "paragraph",
+                "text": "Careers"
+            },
+            {
+                "type": "paragraph",
+                "text": "Press"
+            },
+            {
+                "type": "paragraph",
+                "text": "Acceptable Use Policy"
+            },
+            {
+                "type": "paragraph",
+                "text": "Support"
+            },
+            {
+                "type": "paragraph",
+                "text": "Help Center"
+            },
+            {
+                "type": "paragraph",
+                "text": "Contact us"
+            },
+            {
+                "type": "paragraph",
+                "text": "Resources"
+            },
+            {
+                "type": "paragraph",
+                "text": "Clear your Cache and Cookies"
+            },
+            {
+                "type": "paragraph",
+                "text": "Create an HAR File"
+            },
+            {
+                "type": "paragraph",
+                "text": "All publications in all languages"
+            },
+            {
+                "type": "paragraph",
+                "text": "All publications - English (United States)"
+            },
+            {
+                "type": "paragraph",
+                "text": "Acceptable Use Policy Publication"
+            },
+            {
+                "type": "paragraph",
+                "text": "Get Started Guide"
+            },
+            {
+                "type": "paragraph",
+                "text": "Integrate Publication"
+            },
+            {
+                "type": "paragraph",
+                "text": "Integrations Master List Publication"
+            },
+            {
+                "type": "paragraph",
+                "text": "Product Release Notes Publication"
+            }
+        ]
+    }
+]

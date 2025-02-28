@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Get Started",
+        "content": ""
+    },
+    {
+        "title": "1. Collect",
+        "content": "Send your first event to mParticle Go to 'Create an input'"
+    },
+    {
+        "title": "2. Validate",
+        "content": "Ensure data quality Go to 'Verify'"
+    },
+    {
+        "title": "3. Connect",
+        "content": "Forward data to a downstream services Go to 'Connect an event output'"
+    },
+    {
+        "title": "Do more with mParticle",
+        "content": ""
+    },
+    {
+        "title": "Inputs",
+        "content": ""
+    },
+    {
+        "title": "Outputs",
+        "content": ""
+    },
+    {
+        "title": "CDP",
+        "content": "mParticle DocsHomeGuidesDevelopersIntegrations"
+    },
+    {
+        "title": "Analytics",
+        "content": "Analytics DocsOverviewGetting StartedDevelopersExpert Training"
+    },
+    {
+        "title": "Predictive AI",
+        "content": "Cortex DocsOverviewGetting StartedDevelopersUsing Cortex"
+    },
+    {
+        "title": "Learn More",
+        "content": "BlogPodcastResourcesCommunityChange log"
+    },
+    {
+        "title": "Get in Touch",
+        "content": "Help CenterDemoBecome a Partner"
+    }
+]

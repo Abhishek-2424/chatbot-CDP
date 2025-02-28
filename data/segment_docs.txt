@@ -1,0 +1,166 @@
+Getting StartedWhat is Segment?How Segment WorksGetting Started GuideA Basic Segment InstallationPlanning a Full InstallationA Full Segment InstallationSending Data to DestinationsTesting and DebuggingWhat's NextUse CasesUse Cases OverviewChoosing a Use CaseUse Cases SetupUse Cases Reference
+A Basic Segment Installation
+Planning a Full Installation
+A Full Segment Installation
+Use CasesUse Cases OverviewChoosing a Use CaseUse Cases SetupUse Cases Reference
+Use Cases Overview
+Choosing a Use Case
+Use Cases Setup
+Use Cases Reference
+GuidesAn Introduction to SegmentFor DevelopersFor Data UsersFor Workspace AdminsFiltering your Segment DataHandling Duplicate DataInternet BotsSegment vs. Tag ManagersReplayRegional SegmentAudiences and JourneysHow-to GuidesHow-to Guides IndexAutomating Multi-Channel Re-Engagement CampaignsCollecting Data on the Client or ServerCollecting Pageviews on the Server SideCreating a Push NotificationTracking Customers Across Channels and DevicesSetting up a Dynamic Coupon Program to Reward Loyal CustomersForecasting LTV with SQL and Excel for E-CommerceImporting Historical DataJoining User ProfilesMeasuring Your Advertising FunnelMeasuring the ROI of Your Marketing CampaignsMigrating Code From Other Analytics ToolsSegment's Role in AttributionSetting Up Event-Triggered Notifications or AlertsUsage and BillingAccount ManagementBilling and Account FAQsMTUs, Throughput and BillingDiscounts or Coupons
+For Data Users
+How-to GuidesHow-to Guides IndexAutomating Multi-Channel Re-Engagement CampaignsCollecting Data on the Client or ServerCollecting Pageviews on the Server SideCreating a Push NotificationTracking Customers Across Channels and DevicesSetting up a Dynamic Coupon Program to Reward Loyal CustomersForecasting LTV with SQL and Excel for E-CommerceImporting Historical DataJoining User ProfilesMeasuring Your Advertising FunnelMeasuring the ROI of Your Marketing CampaignsMigrating Code From Other Analytics ToolsSegment's Role in AttributionSetting Up Event-Triggered Notifications or Alerts
+Joining User Profiles
+ConnectionsOverviewThe Segment SpecSpec OverviewSpec: PageSpec: ScreenSpec: TrackSpec: GroupSpec: IdentifySpec: AliasSpec: AI CopilotSpec: Common FieldsNative Mobile SpecWhat is the native mobile spec?Packaging SDKs for Mobile DestinationsSpec: Semantic EventsSpec: B2B SaaSSpec: Ecommerce EventsEcommerce Tracking PlansVideo SpecBest Practices for Identifying UsersBest Practices for Event CallsSourcesSources OverviewSources CatalogCloud SourcesSource DebuggerSegment-Managed Custom DomainSelf-Managed Custom ProxyVisual TaggerSchemaSchema ControlsUsing Schema ControlsSchema Unique LimitsDestinationsDestinations OverviewDestination ActionsAdd a DestinationDestinations CatalogDestination FiltersReverse ETLReverse ETL OverviewSet Up Reverse ETLManage Reverse ETL SyncsReverse ETL SystemReverse ETL Destination CatalogReverse ETL Source Setup GuidesAzure Reverse ETL SetupBigQuery Reverse ETL SetupDatabricks Reverse ETL SetupPostgres Reverse ETL SetupRedshift Reverse ETL SetupSnowflake Reverse ETL SetupFunctionsFunctions OverviewSource FunctionsDestination FunctionsDestination Insert FunctionsFunctions CopilotFunctions Copilot Nutrition Facts LabelFunctions EnvironmentFunctions Usage LimitsFunctions for AWS APIsStorage DestinationsStorage Destinations OverviewStorage Destinations CatalogSegment Data LakesData Lakes OverviewSet Up Data LakesSync Reports and Error ReportingAWS Lake FormationData Lakes Sync History and HealthData Lakes vs. WarehousesData WarehousesWarehouse OverviewWarehouse SchemasWarehouse SyncsWarehouse Health DashboardsChoosing a WarehouseWarehouse FAQsAdding Warehouse UsersWarehouse ErrorsRedshift Cluster and Redshift Connector LimitationsSpeeding Up Redshift QueriesUseful SQL Queries for RedshiftRegional SegmentEvent TesterData Export OptionsUsing Schema ControlsEvent DeliveryDelivery OverviewConnections AlertingLocate Your Write KeyIntegration Error CodesRate LimitsOAuth 2.0AWS PrivateLink Integration
+The Segment SpecSpec OverviewSpec: PageSpec: ScreenSpec: TrackSpec: GroupSpec: IdentifySpec: AliasSpec: AI CopilotSpec: Common FieldsNative Mobile SpecWhat is the native mobile spec?Packaging SDKs for Mobile DestinationsSpec: Semantic EventsSpec: B2B SaaSSpec: Ecommerce EventsEcommerce Tracking PlansVideo SpecBest Practices for Identifying UsersBest Practices for Event Calls
+Best Practices for Identifying Users
+DestinationsDestinations OverviewDestination ActionsAdd a DestinationDestinations CatalogDestination Filters
+Add a Destination
+Reverse ETLReverse ETL OverviewSet Up Reverse ETLManage Reverse ETL SyncsReverse ETL SystemReverse ETL Destination CatalogReverse ETL Source Setup GuidesAzure Reverse ETL SetupBigQuery Reverse ETL SetupDatabricks Reverse ETL SetupPostgres Reverse ETL SetupRedshift Reverse ETL SetupSnowflake Reverse ETL Setup
+Set Up Reverse ETL
+Reverse ETL Source Setup GuidesAzure Reverse ETL SetupBigQuery Reverse ETL SetupDatabricks Reverse ETL SetupPostgres Reverse ETL SetupRedshift Reverse ETL SetupSnowflake Reverse ETL Setup
+Azure Reverse ETL Setup
+BigQuery Reverse ETL Setup
+Databricks Reverse ETL Setup
+Postgres Reverse ETL Setup
+Redshift Reverse ETL Setup
+Snowflake Reverse ETL Setup
+Storage DestinationsStorage Destinations OverviewStorage Destinations CatalogSegment Data LakesData Lakes OverviewSet Up Data LakesSync Reports and Error ReportingAWS Lake FormationData Lakes Sync History and HealthData Lakes vs. WarehousesData WarehousesWarehouse OverviewWarehouse SchemasWarehouse SyncsWarehouse Health DashboardsChoosing a WarehouseWarehouse FAQsAdding Warehouse UsersWarehouse ErrorsRedshift Cluster and Redshift Connector LimitationsSpeeding Up Redshift QueriesUseful SQL Queries for Redshift
+Segment Data LakesData Lakes OverviewSet Up Data LakesSync Reports and Error ReportingAWS Lake FormationData Lakes Sync History and HealthData Lakes vs. Warehouses
+Set Up Data Lakes
+Data Lakes vs. Warehouses
+Data WarehousesWarehouse OverviewWarehouse SchemasWarehouse SyncsWarehouse Health DashboardsChoosing a WarehouseWarehouse FAQsAdding Warehouse UsersWarehouse ErrorsRedshift Cluster and Redshift Connector LimitationsSpeeding Up Redshift QueriesUseful SQL Queries for Redshift
+Warehouse Overview
+Warehouse Schemas
+Warehouse Syncs
+Warehouse Health Dashboards
+Choosing a Warehouse
+Warehouse FAQs
+Adding Warehouse Users
+Warehouse Errors
+Redshift Cluster and Redshift Connector Limitations
+Useful SQL Queries for Redshift
+Connections Alerting
+UnifyUnify OverviewUnify OnboardingIdentity ResolutionOverviewOnboardingSpace SetupUse CasesExternal IDsSettingsE-Commerce ExampleProfiles SyncProfiles Sync OverviewProfiles Sync SetupSetupDatabricks for Profiles SyncSample QueriesTables & Materialized ViewsData GraphData GraphSetup GuidesBigQuery Data Graph SetupDatabricks Data Graph SetupRedshift Data Graph SetupSnowflake Data Graph SetupLinked EventsLinked Events OverviewLinked Events LimitsTraitsPredictionsPredictionsUsing PredictionsSuggested Predictive AudiencesPredictions Nutrition Facts LabelComputed TraitsCustom TraitsSQL TraitsRecommended ItemsProfile APIProfile DebuggerProfiles InsightsCSV UploadUnify and GDPRUnify FAQsUnify Limits
+Identity ResolutionOverviewOnboardingSpace SetupUse CasesExternal IDsSettingsE-Commerce Example
+Space Setup
+Use Cases
+Profiles SyncProfiles Sync OverviewProfiles Sync SetupSetupDatabricks for Profiles SyncSample QueriesTables & Materialized Views
+Profiles Sync SetupSetupDatabricks for Profiles Sync
+Setup
+Data GraphData GraphSetup GuidesBigQuery Data Graph SetupDatabricks Data Graph SetupRedshift Data Graph SetupSnowflake Data Graph SetupLinked EventsLinked Events OverviewLinked Events Limits
+Setup GuidesBigQuery Data Graph SetupDatabricks Data Graph SetupRedshift Data Graph SetupSnowflake Data Graph Setup
+BigQuery Data Graph Setup
+Databricks Data Graph Setup
+Redshift Data Graph Setup
+Snowflake Data Graph Setup
+EngageIntroductionFoundations OnboardingPremier OnboardingUse CasesUser SubscriptionsUser SubscriptionsSet User SubscriptionsSubscription StatesSubscription GroupsSubscriptions with SQL TraitsUpdate Subscriptions with a CSVProfilesUse Profiles and Traits with a CSVAudiencesAudiences OverviewLinked AudiencesLinked Audiences OverviewLinked Audiences LimitsAccount-level AudiencesGenerative AudiencesGenerative Audiences Nutrition Facts LabelProduct Based AudiencesProduct Based Audiences Nutrition Facts LabelOrganize AudiencesSend Audiences to DestinationsJourneysJourneys OverviewBuild a JourneyJourney Step TypesJourney Edits and VersioningSend Data to DestinationsJourneys AnalyticsEvent-Triggered JourneysOverviewEvent-Triggered Journeys StepsJourney ContextJourneys Best Practices and FAQExample Journeys Use CasesUnderstand Journeys LogicJourneys GlossaryContentEmail TemplateDrag and Drop EditorHTML EditorSMS TemplateWhatsApp TemplateMobile Push TemplateOrganizing Your TemplatesCampaignsCampaigns OverviewEmail CampaignsSMS CampaignsBroadcastsWhatsApp CampaignsMobile PushMobile Push OnboardingMobile Push CampaignsTrait ActivationTrait Activation OverviewTrait EnrichmentID SyncAnalytics OverviewEngage SettingsEngage Default LimitsEngage and WarehousesUsing Engage DataEngage FAQs
+Use Cases
+User SubscriptionsUser SubscriptionsSet User SubscriptionsSubscription StatesSubscription GroupsSubscriptions with SQL TraitsUpdate Subscriptions with a CSV
+User Subscriptions
+Set User Subscriptions
+ProfilesUse Profiles and Traits with a CSV
+Use Profiles and Traits with a CSV
+JourneysJourneys OverviewBuild a JourneyJourney Step TypesJourney Edits and VersioningSend Data to DestinationsJourneys AnalyticsEvent-Triggered JourneysOverviewEvent-Triggered Journeys StepsJourney ContextJourneys Best Practices and FAQExample Journeys Use CasesUnderstand Journeys LogicJourneys Glossary
+Example Journeys Use Cases
+Engage and Warehouses
+PrivacyPrivacy OverviewPrivacy PortalDetect PIIData Controls and AlertsGDPRComplying With GDPRUser Deletion and SuppressionConsent ManagementConsent Management OverviewConsent in Segment ConnectionsConfigure Consent ManagementConsent in UnifyConsent in Reverse ETLConsent FAQsAccount & Data DeletionHIPAA Eligible SegmentPrivacy FAQs
+GDPRComplying With GDPRUser Deletion and Suppression
+User Deletion and Suppression
+Consent ManagementConsent Management OverviewConsent in Segment ConnectionsConfigure Consent ManagementConsent in UnifyConsent in Reverse ETLConsent FAQs
+Consent in Segment Connections
+Configure Consent Management
+ProtocolsProtocols OverviewCreate a Tracking PlanData Collection Best PracticesThe Tracking PlanTracking Plan LibrariesValidate With ViolationsConnect Sources to Your Tracking PlanReview and Resolve Event ViolationsForward ViolationsEnforce With Data ControlsCustomize Your Schema ControlsForward Blocked EventsTransform to Fix Bad DataProtocols ExtensionsProtocols APIsTypewriterAnomaly DetectionSchema ControlsProtocols FAQs
+Create a Tracking PlanData Collection Best PracticesThe Tracking PlanTracking Plan Libraries
+Validate With ViolationsConnect Sources to Your Tracking PlanReview and Resolve Event ViolationsForward Violations
+Connect Sources to Your Tracking Plan
+Segment AppSegment Web AppWorkspace HomeAccess ManagementIdentity & Access Management OverviewConceptsRolesManage Workspace AccessLabel-Based Access ControlAudit TrailSingle Sign OnSystem for Cross-domain Identity Management (SCIM) Configuration GuideMulti-Factor Authentication (MFA)ExtensionsExtensions OverviewdbtGitPicking a Secure PasswordProd and Testing Environments in SegmentVerifying Your Email AddressSupport Access
+Verifying Your Email Address
+Getting StartedWhat is Segment?How Segment WorksGetting Started GuideA Basic Segment InstallationPlanning a Full InstallationA Full Segment InstallationSending Data to DestinationsTesting and DebuggingWhat's NextUse CasesUse Cases OverviewChoosing a Use CaseUse Cases SetupUse Cases Reference
+A Basic Segment Installation
+Planning a Full Installation
+A Full Segment Installation
+Use CasesUse Cases OverviewChoosing a Use CaseUse Cases SetupUse Cases Reference
+Use Cases Overview
+Choosing a Use Case
+Use Cases Setup
+Use Cases Reference
+GuidesAn Introduction to SegmentFor DevelopersFor Data UsersFor Workspace AdminsFiltering your Segment DataHandling Duplicate DataInternet BotsSegment vs. Tag ManagersReplayRegional SegmentAudiences and JourneysHow-to GuidesHow-to Guides IndexAutomating Multi-Channel Re-Engagement CampaignsCollecting Data on the Client or ServerCollecting Pageviews on the Server SideCreating a Push NotificationTracking Customers Across Channels and DevicesSetting up a Dynamic Coupon Program to Reward Loyal CustomersForecasting LTV with SQL and Excel for E-CommerceImporting Historical DataJoining User ProfilesMeasuring Your Advertising FunnelMeasuring the ROI of Your Marketing CampaignsMigrating Code From Other Analytics ToolsSegment's Role in AttributionSetting Up Event-Triggered Notifications or AlertsUsage and BillingAccount ManagementBilling and Account FAQsMTUs, Throughput and BillingDiscounts or Coupons
+For Data Users
+How-to GuidesHow-to Guides IndexAutomating Multi-Channel Re-Engagement CampaignsCollecting Data on the Client or ServerCollecting Pageviews on the Server SideCreating a Push NotificationTracking Customers Across Channels and DevicesSetting up a Dynamic Coupon Program to Reward Loyal CustomersForecasting LTV with SQL and Excel for E-CommerceImporting Historical DataJoining User ProfilesMeasuring Your Advertising FunnelMeasuring the ROI of Your Marketing CampaignsMigrating Code From Other Analytics ToolsSegment's Role in AttributionSetting Up Event-Triggered Notifications or Alerts
+Joining User Profiles
+ConnectionsOverviewThe Segment SpecSpec OverviewSpec: PageSpec: ScreenSpec: TrackSpec: GroupSpec: IdentifySpec: AliasSpec: AI CopilotSpec: Common FieldsNative Mobile SpecWhat is the native mobile spec?Packaging SDKs for Mobile DestinationsSpec: Semantic EventsSpec: B2B SaaSSpec: Ecommerce EventsEcommerce Tracking PlansVideo SpecBest Practices for Identifying UsersBest Practices for Event CallsSourcesSources OverviewSources CatalogCloud SourcesSource DebuggerSegment-Managed Custom DomainSelf-Managed Custom ProxyVisual TaggerSchemaSchema ControlsUsing Schema ControlsSchema Unique LimitsDestinationsDestinations OverviewDestination ActionsAdd a DestinationDestinations CatalogDestination FiltersReverse ETLReverse ETL OverviewSet Up Reverse ETLManage Reverse ETL SyncsReverse ETL SystemReverse ETL Destination CatalogReverse ETL Source Setup GuidesAzure Reverse ETL SetupBigQuery Reverse ETL SetupDatabricks Reverse ETL SetupPostgres Reverse ETL SetupRedshift Reverse ETL SetupSnowflake Reverse ETL SetupFunctionsFunctions OverviewSource FunctionsDestination FunctionsDestination Insert FunctionsFunctions CopilotFunctions Copilot Nutrition Facts LabelFunctions EnvironmentFunctions Usage LimitsFunctions for AWS APIsStorage DestinationsStorage Destinations OverviewStorage Destinations CatalogSegment Data LakesData Lakes OverviewSet Up Data LakesSync Reports and Error ReportingAWS Lake FormationData Lakes Sync History and HealthData Lakes vs. WarehousesData WarehousesWarehouse OverviewWarehouse SchemasWarehouse SyncsWarehouse Health DashboardsChoosing a WarehouseWarehouse FAQsAdding Warehouse UsersWarehouse ErrorsRedshift Cluster and Redshift Connector LimitationsSpeeding Up Redshift QueriesUseful SQL Queries for RedshiftRegional SegmentEvent TesterData Export OptionsUsing Schema ControlsEvent DeliveryDelivery OverviewConnections AlertingLocate Your Write KeyIntegration Error CodesRate LimitsOAuth 2.0AWS PrivateLink Integration
+The Segment SpecSpec OverviewSpec: PageSpec: ScreenSpec: TrackSpec: GroupSpec: IdentifySpec: AliasSpec: AI CopilotSpec: Common FieldsNative Mobile SpecWhat is the native mobile spec?Packaging SDKs for Mobile DestinationsSpec: Semantic EventsSpec: B2B SaaSSpec: Ecommerce EventsEcommerce Tracking PlansVideo SpecBest Practices for Identifying UsersBest Practices for Event Calls
+Best Practices for Identifying Users
+DestinationsDestinations OverviewDestination ActionsAdd a DestinationDestinations CatalogDestination Filters
+Add a Destination
+Reverse ETLReverse ETL OverviewSet Up Reverse ETLManage Reverse ETL SyncsReverse ETL SystemReverse ETL Destination CatalogReverse ETL Source Setup GuidesAzure Reverse ETL SetupBigQuery Reverse ETL SetupDatabricks Reverse ETL SetupPostgres Reverse ETL SetupRedshift Reverse ETL SetupSnowflake Reverse ETL Setup
+Set Up Reverse ETL
+Reverse ETL Source Setup GuidesAzure Reverse ETL SetupBigQuery Reverse ETL SetupDatabricks Reverse ETL SetupPostgres Reverse ETL SetupRedshift Reverse ETL SetupSnowflake Reverse ETL Setup
+Azure Reverse ETL Setup
+BigQuery Reverse ETL Setup
+Databricks Reverse ETL Setup
+Postgres Reverse ETL Setup
+Redshift Reverse ETL Setup
+Snowflake Reverse ETL Setup
+Storage DestinationsStorage Destinations OverviewStorage Destinations CatalogSegment Data LakesData Lakes OverviewSet Up Data LakesSync Reports and Error ReportingAWS Lake FormationData Lakes Sync History and HealthData Lakes vs. WarehousesData WarehousesWarehouse OverviewWarehouse SchemasWarehouse SyncsWarehouse Health DashboardsChoosing a WarehouseWarehouse FAQsAdding Warehouse UsersWarehouse ErrorsRedshift Cluster and Redshift Connector LimitationsSpeeding Up Redshift QueriesUseful SQL Queries for Redshift
+Segment Data LakesData Lakes OverviewSet Up Data LakesSync Reports and Error ReportingAWS Lake FormationData Lakes Sync History and HealthData Lakes vs. Warehouses
+Set Up Data Lakes
+Data Lakes vs. Warehouses
+Data WarehousesWarehouse OverviewWarehouse SchemasWarehouse SyncsWarehouse Health DashboardsChoosing a WarehouseWarehouse FAQsAdding Warehouse UsersWarehouse ErrorsRedshift Cluster and Redshift Connector LimitationsSpeeding Up Redshift QueriesUseful SQL Queries for Redshift
+Warehouse Overview
+Warehouse Schemas
+Warehouse Syncs
+Warehouse Health Dashboards
+Choosing a Warehouse
+Warehouse FAQs
+Adding Warehouse Users
+Warehouse Errors
+Redshift Cluster and Redshift Connector Limitations
+Useful SQL Queries for Redshift
+Connections Alerting
+UnifyUnify OverviewUnify OnboardingIdentity ResolutionOverviewOnboardingSpace SetupUse CasesExternal IDsSettingsE-Commerce ExampleProfiles SyncProfiles Sync OverviewProfiles Sync SetupSetupDatabricks for Profiles SyncSample QueriesTables & Materialized ViewsData GraphData GraphSetup GuidesBigQuery Data Graph SetupDatabricks Data Graph SetupRedshift Data Graph SetupSnowflake Data Graph SetupLinked EventsLinked Events OverviewLinked Events LimitsTraitsPredictionsPredictionsUsing PredictionsSuggested Predictive AudiencesPredictions Nutrition Facts LabelComputed TraitsCustom TraitsSQL TraitsRecommended ItemsProfile APIProfile DebuggerProfiles InsightsCSV UploadUnify and GDPRUnify FAQsUnify Limits
+Identity ResolutionOverviewOnboardingSpace SetupUse CasesExternal IDsSettingsE-Commerce Example
+Space Setup
+Use Cases
+Profiles SyncProfiles Sync OverviewProfiles Sync SetupSetupDatabricks for Profiles SyncSample QueriesTables & Materialized Views
+Profiles Sync SetupSetupDatabricks for Profiles Sync
+Setup
+Data GraphData GraphSetup GuidesBigQuery Data Graph SetupDatabricks Data Graph SetupRedshift Data Graph SetupSnowflake Data Graph SetupLinked EventsLinked Events OverviewLinked Events Limits
+Setup GuidesBigQuery Data Graph SetupDatabricks Data Graph SetupRedshift Data Graph SetupSnowflake Data Graph Setup
+BigQuery Data Graph Setup
+Databricks Data Graph Setup
+Redshift Data Graph Setup
+Snowflake Data Graph Setup
+EngageIntroductionFoundations OnboardingPremier OnboardingUse CasesUser SubscriptionsUser SubscriptionsSet User SubscriptionsSubscription StatesSubscription GroupsSubscriptions with SQL TraitsUpdate Subscriptions with a CSVProfilesUse Profiles and Traits with a CSVAudiencesAudiences OverviewLinked AudiencesLinked Audiences OverviewLinked Audiences LimitsAccount-level AudiencesGenerative AudiencesGenerative Audiences Nutrition Facts LabelProduct Based AudiencesProduct Based Audiences Nutrition Facts LabelOrganize AudiencesSend Audiences to DestinationsJourneysJourneys OverviewBuild a JourneyJourney Step TypesJourney Edits and VersioningSend Data to DestinationsJourneys AnalyticsEvent-Triggered JourneysOverviewEvent-Triggered Journeys StepsJourney ContextJourneys Best Practices and FAQExample Journeys Use CasesUnderstand Journeys LogicJourneys GlossaryContentEmail TemplateDrag and Drop EditorHTML EditorSMS TemplateWhatsApp TemplateMobile Push TemplateOrganizing Your TemplatesCampaignsCampaigns OverviewEmail CampaignsSMS CampaignsBroadcastsWhatsApp CampaignsMobile PushMobile Push OnboardingMobile Push CampaignsTrait ActivationTrait Activation OverviewTrait EnrichmentID SyncAnalytics OverviewEngage SettingsEngage Default LimitsEngage and WarehousesUsing Engage DataEngage FAQs
+Use Cases
+User SubscriptionsUser SubscriptionsSet User SubscriptionsSubscription StatesSubscription GroupsSubscriptions with SQL TraitsUpdate Subscriptions with a CSV
+User Subscriptions
+Set User Subscriptions
+ProfilesUse Profiles and Traits with a CSV
+Use Profiles and Traits with a CSV
+JourneysJourneys OverviewBuild a JourneyJourney Step TypesJourney Edits and VersioningSend Data to DestinationsJourneys AnalyticsEvent-Triggered JourneysOverviewEvent-Triggered Journeys StepsJourney ContextJourneys Best Practices and FAQExample Journeys Use CasesUnderstand Journeys LogicJourneys Glossary
+Example Journeys Use Cases
+Engage and Warehouses
+PrivacyPrivacy OverviewPrivacy PortalDetect PIIData Controls and AlertsGDPRComplying With GDPRUser Deletion and SuppressionConsent ManagementConsent Management OverviewConsent in Segment ConnectionsConfigure Consent ManagementConsent in UnifyConsent in Reverse ETLConsent FAQsAccount & Data DeletionHIPAA Eligible SegmentPrivacy FAQs
+GDPRComplying With GDPRUser Deletion and Suppression
+User Deletion and Suppression
+Consent ManagementConsent Management OverviewConsent in Segment ConnectionsConfigure Consent ManagementConsent in UnifyConsent in Reverse ETLConsent FAQs
+Consent in Segment Connections
+Configure Consent Management
+ProtocolsProtocols OverviewCreate a Tracking PlanData Collection Best PracticesThe Tracking PlanTracking Plan LibrariesValidate With ViolationsConnect Sources to Your Tracking PlanReview and Resolve Event ViolationsForward ViolationsEnforce With Data ControlsCustomize Your Schema ControlsForward Blocked EventsTransform to Fix Bad DataProtocols ExtensionsProtocols APIsTypewriterAnomaly DetectionSchema ControlsProtocols FAQs
+Create a Tracking PlanData Collection Best PracticesThe Tracking PlanTracking Plan Libraries
+Validate With ViolationsConnect Sources to Your Tracking PlanReview and Resolve Event ViolationsForward Violations
+Connect Sources to Your Tracking Plan
+Segment AppSegment Web AppWorkspace HomeAccess ManagementIdentity & Access Management OverviewConceptsRolesManage Workspace AccessLabel-Based Access ControlAudit TrailSingle Sign OnSystem for Cross-domain Identity Management (SCIM) Configuration GuideMulti-Factor Authentication (MFA)ExtensionsExtensions OverviewdbtGitPicking a Secure PasswordProd and Testing Environments in SegmentVerifying Your Email AddressSupport Access
+Verifying Your Email Address
+Learn how to use Segment to collect, responsibly manage, and integrate your customer data with hundreds of tools.
+Learn about Segment, plan and work through a basic implementation, and explore features and extensions.
+Integrate the tools you need for analytics, growth, marketing, and more.
+The Segment Spec helps you identify, capture, and format meaningful data for use with Segment libraries and APIs as well as downstream tools.
+Use Track, Page, Identify, and other Segment tracking calls.
+Use our business-case specs to ensure that your tools get the most from your data.
+The basics of your Segment implementation.
+Connect your app to Segment
+Additional Resources
+Connections

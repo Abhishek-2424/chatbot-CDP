@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Browse by product",
+        "content": "Integrate\n\n\n\n\n\n\nDiscover how to use\u00a0Sources and Destinations  to integrate your disparate data sources and activate your data across platforms.\n\n\n\n\n\n\n\n\nUnify\n\n\n\n\nDiscover how to use Catalogue, Calculated Attributes and ID Strategy to\u00a0unify\u00a0your customer data.\n\n\n\n\n\n\n\n\nSegment\n\n\n\n\nDiscover how to use\u00a0Audiences\u00a0to create cohorts and activate your customer data. Orchestrate\n\n\n\n\nDiscover how to use Journeys to  orchestrate\u00a0personalised workflows with actionable recommendations.\n\n\n\n\n\n\n\n\n\nDashboard\n\n\n\n\nDiscover how to use Dashboard to\u00a0analyse\u00a0your platform usage, exploring consumption metrics and more.\n\n\n\n\n\n\n\n\nProtect\n\n\n\n\nDiscover how to use Consent, Customer 360 and Data Lifecycle to protect your customer data by being compliant with regulatory frameworks. "
+    },
+    {
+        "title": "Do more with Zeotap",
+        "content": ".module {\n        display: inline-block;\n        vertical-align: top;\n        margin-right: 13px; /* Adjust as needed */\n    } Target\n\n\n\n\n\n\n\n                Discover how to use Target to create and activate deterministic third-party Audience.\n\n\n\n\n\n\n\n\n\nID+\n\n\n\n\n\n\n\n                Discover how to use ID+ to create custom journeys and provide\u00a0optimal actions.\n\n\n\n\n\n\n\n\n\nAdmin\n\n\n\n\n\n\n                Discover how to use Admin to create organisations and add users with specific roles and access."
+    }
+]

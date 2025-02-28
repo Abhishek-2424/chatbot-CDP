@@ -1,0 +1,33 @@
+{
+    "mparticle": {
+        "Get Started": "No content found.",
+        "1. Collect": "Send your first event to mParticle",
+        "2. Validate": "Ensure data quality",
+        "3. Connect": "Forward data to a downstream services",
+        "Do more with mParticle": "No content found.",
+        "Inputs": "No content found.",
+        "Outputs": "No content found.",
+        "CDP": "mParticle DocsHomeGuidesDevelopersIntegrations",
+        "Analytics": "Analytics DocsOverviewGetting StartedDevelopersExpert Training",
+        "Predictive AI": "Cortex DocsOverviewGetting StartedDevelopersUsing Cortex",
+        "Learn More": "BlogPodcastResourcesCommunityChange log",
+        "Get in Touch": "Help CenterDemoBecome a Partner"
+    },
+    "lytics": {
+        "Quick Start": "Developer Quickstart",
+        "Account Management": "What is Vault?Accessing AccountsMonitoring Metrics and AlertsView More\u2026",
+        "Key Concepts": "Identity ResolutionConsent & PrivacyClient & Server Side CookiesView More\u2026",
+        "Pipeline & Profiles": "Data PipelineSchema ManagementIdentity",
+        "Warehouse Access": "What is Cloud Connect?Connecting WarehousesData Models & QueriesView More\u2026",
+        "Audiences & Activation": "User ProfilesAudiencesReportsView More\u2026",
+        "Tutorials": "Leveraging User ProfilesData Collection & OnboardingData ManagementView More\u2026",
+        "SDKs & Tools": "WebMobileChrome Extension",
+        "Integrations": "Lytics Integration OptionsAcousticAdobeView More\u2026",
+        "Partners": "Partner TypesLytics Communication",
+        "Legacy": "InsightsImporting External ExperiencesIDP-initiated SSO (legacy)View More\u2026"
+    },
+    "zeotap": {
+        "Browse by product": "No content found.",
+        "Do more with Zeotap": "No content found."
+    }
+}

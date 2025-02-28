@@ -1,0 +1,5 @@
+mParticle is a customer data platform (CDP) that simplifies how you collect and connect your user data to hundreds of vendors without needing to manage multiple integrations. We simplify the entire process for you, so you can do more with your data without the hassle of complex integrations.
+3. Connect
+Manage user identities with IDSync
+Get a complete view of your users
+Real-time API to drive user personalization
